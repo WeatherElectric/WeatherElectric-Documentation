@@ -4,14 +4,18 @@
 
 <instance-profile id="wedoc"
                  name="Weather Electric"
-                 start-page="weather-electric.md">
+                 start-page="Weather-Electric.md">
 
-    <toc-element topic="weather-electric.md"/>
-    <toc-element topic="Mods.md">
-        <toc-element topic="Media-Player.md">
-            <toc-element topic="Mod-Setup.md"/>
-            <toc-element topic="File-Setup.md"/>
-            <toc-element topic="TagLib-Wrapper.md"/>
+    <toc-element topic="Weather-Electric.md"/>
+    <toc-element topic="Unity.md"/>
+    <toc-element topic="BONELAB-Mods.md">
+        <toc-element topic="BLRPC.md">
+            <toc-element topic="BLRPC-Customization.md"/>
+        </toc-element>
+        <toc-element topic="MediaPlayer.md">
+            <toc-element topic="MediaPlayer-Installation.md"/>
+            <toc-element topic="MediaPlayer-Custom-Audio.md"/>
+            <toc-element topic="MediaPlayer-TagLib-Wrapper.md"/>
         </toc-element>
     </toc-element>
 </instance-profile>
