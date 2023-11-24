@@ -44,7 +44,7 @@ Get the filename of an audio file
 #### Usage {id="filename-usage"}
 `string filename = TagLib.GetFilename("Path/To/File");`
 
-### Usage Example
+## Usage Example
 An example on how to use it.
 
     using UnityEngine;
