@@ -9,6 +9,9 @@
     <toc-element topic="Weather-Electric.md"/>
     <toc-element topic="Unity.md"/>
     <toc-element topic="BONELAB-Mods.md">
+        <toc-element topic="DoubleJump.md">
+            <toc-element topic="DoubleJump-Preferences.md"/>
+        </toc-element>
         <toc-element topic="BLRPC.md">
             <toc-element topic="BLRPC-Customization.md"/>
         </toc-element>
