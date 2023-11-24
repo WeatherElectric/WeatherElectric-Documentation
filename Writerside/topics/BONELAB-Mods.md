@@ -15,4 +15,5 @@ Mods requiring Melon/Lemonloader
 
 ## SDK
 Mods built with Marrow SDK
-* Not filled yet lol
+* [The Inventions](TheInventions.md)
+* [The Playground](ThePlayground.md)

@@ -43,3 +43,32 @@ Get the filename of an audio file
 * String of the filename of the file.
 #### Usage {id="filename-usage"}
 `string filename = TagLib.GetFilename("Path/To/File");`
+
+### Usage Example
+An example on how to use it.
+
+    using UnityEngine;
+    using MediaPlayer;
+    using TMPro;
+
+    public class Thingy : MonoBehaviour
+    {
+        public TextMeshPro artistText;
+        public TextMeshPro trackText;
+        public MeshRenderer mesh;
+
+        public void Start()
+        {
+            DoThing("C:/Users/joe/Pick It Up.mp3");
+        }
+
+        public void DoThing(string filepath)
+        {
+            var track = TagLib.GetTag(filepath, TagLib.Tag.Track);
+            var artist = TagLib.GetTag(filepath, TagLib.Tag.Artist);
+            var cover = TagLib.GetCover(filepath);
+            trackText.text = track;
+            artistText.text = artist;
+            mesh.material.mainTexture = cover;
+        }
+    }
