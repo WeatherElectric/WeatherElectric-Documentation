@@ -9,17 +9,21 @@
     <toc-element topic="Weather-Electric.md"/>
     <toc-element topic="Unity.md"/>
     <toc-element topic="BONELAB-Mods.md">
-        <toc-element topic="BLRPC.md">
-            <toc-element topic="BLRPC-Customization.md"/>
+        <toc-element topic="CodeMods.md">
+            <toc-element topic="BLRPC.md">
+                <toc-element topic="BLRPC-Customization.md"/>
+            </toc-element>
+            <toc-element topic="DoubleJump.md">
+                <toc-element topic="DoubleJump-Preferences.md"/>
+            </toc-element>
+            <toc-element topic="FantasyColiseum.md"/>
+            <toc-element topic="LevelReloader.md"/>
+            <toc-element topic="MediaPlayer.md">
+                <toc-element topic="MediaPlayer-Installation.md"/>
+                <toc-element topic="MediaPlayer-Custom-Audio.md"/>
+                <toc-element topic="MediaPlayer-TagLib-Wrapper.md"/>
+            </toc-element>
         </toc-element>
-        <toc-element topic="DoubleJump.md">
-            <toc-element topic="DoubleJump-Preferences.md"/>
-        </toc-element>
-        <toc-element topic="FantasyColiseum.md"/>
-        <toc-element topic="MediaPlayer.md">
-            <toc-element topic="MediaPlayer-Installation.md"/>
-            <toc-element topic="MediaPlayer-Custom-Audio.md"/>
-            <toc-element topic="MediaPlayer-TagLib-Wrapper.md"/>
-        </toc-element>
+        <toc-element topic="SDKMods.md"/>
     </toc-element>
 </instance-profile>

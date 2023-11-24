@@ -1,4 +1,4 @@
-# MediaPlayer
+# Media Player
 
 MP3 Player that reads the file's metadata
 
