@@ -18,6 +18,17 @@
             </toc-element>
             <toc-element topic="FantasyColiseum.md"/>
             <toc-element topic="LevelReloader.md"/>
+            <toc-element topic="TheLibraryElectric.md">
+                <toc-element topic="TheLibraryElectric-UnityIntegration.md">
+                    <toc-element topic="TheLibraryElectric-Recommended-Setups.md"/>
+                    <toc-element topic="TheLibraryElectric-Markers.md"/>
+                    <toc-element topic="TheLibraryElectric-Misc.md"/>
+                    <toc-element topic="TheLibraryElectric-PlayerUtil.md"/>
+                    <toc-element topic="TheLibraryElectric-Rigidbodies.md"/>
+                    <toc-element topic="TheLibraryElectric-Signals.md"/>
+                    <toc-element topic="TheLibraryElectric-Water.md"/>
+                </toc-element>
+            </toc-element>
             <toc-element topic="MediaPlayer.md">
                 <toc-element topic="MediaPlayer-Installation.md"/>
                 <toc-element topic="MediaPlayer-Custom-Audio.md"/>
