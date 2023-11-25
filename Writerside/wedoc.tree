@@ -39,11 +39,18 @@
                 </toc-element>
             </toc-element>
             <toc-element topic="SDKMods.md">
-                <toc-element topic="TheInventions.md">
-                    <toc-element topic="TheInventions-Items.md"/>
+                <toc-element topic="SDK-Spawnables.md">
+                    <toc-element topic="TheInventions.md">
+                        <toc-element topic="TheInventions-Items.md"/>
+                    </toc-element>
                 </toc-element>
-                <toc-element topic="ThePlayground.md">
-                    <toc-element topic="ThePlayground-More-Images.md"/>
+                <toc-element topic="SDK-Maps.md">
+                    <toc-element topic="DepthsTestingChamber.md">
+                        <toc-element topic="Depths-More-Images.md"/>
+                    </toc-element>
+                    <toc-element topic="ThePlayground.md">
+                        <toc-element topic="ThePlayground-More-Images.md"/>
+                    </toc-element>
                 </toc-element>
             </toc-element>
         </toc-element>

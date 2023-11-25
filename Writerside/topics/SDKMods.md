@@ -2,5 +2,9 @@
 
 Mods built with Marrow SDK
 
-* [The Inventions](TheInventions.md)
+## Maps
+* [Depths Testing Chamber](DepthsTestingChamber.md)
 * [The Playground](ThePlayground.md)
+
+## Spawnables
+* [The Inventions](TheInventions.md)
