@@ -3,6 +3,9 @@
 We do Unity and BONELAB stuff.
 
 [GitHub](https://github.com/WeatherElectric)
+[Discord](https://weatherelectric.xyz/discord)
+[Thunderstore](https://bonelab.thunderstore.io/package/SoulWithMae/)
+[Mod.io](https://mod.io/u/soulwithmae/)
 
 ## BONELAB Modding
 
